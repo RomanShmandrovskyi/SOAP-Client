@@ -1,6 +1,6 @@
 # SOAP-Client
 ## At first
-You must be assured that your soap web service is runnin now.
+You must be assured that your soap web service is running now.
 ## And than
 mvn clean test
 ## report in:
