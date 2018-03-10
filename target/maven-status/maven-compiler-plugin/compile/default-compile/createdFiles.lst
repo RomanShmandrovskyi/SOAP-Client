@@ -1,0 +1,9 @@
+web\service\WalletResponse.class
+web\service\implementation\WalletServiceImplService.class
+web\service\implementation\WalletService.class
+web\service\ResponseStatus.class
+web\service\ResponseStatusSuccess.class
+web\service\Wallet.class
+web\service\package-info.class
+web\service\ResponseStatusFault.class
+web\service\ObjectFactory.class
